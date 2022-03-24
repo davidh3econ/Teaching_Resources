@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Entrepreneurship"
+    url: /entrepreneur/
+    
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "Résumé"
+    url: /resume/
